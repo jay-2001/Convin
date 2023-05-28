@@ -52,8 +52,8 @@ MIDDLEWARE = [
 
 ROOT_URLCONF = 'django_project.urls'
 
-CLIENT_ID = '774660866213-ftpi2dvpd58ise4u83hueuo0qdbh37g3.apps.googleusercontent.com'
-CLIENT_SECRET = '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'
+CLIENT_ID = ''
+CLIENT_SECRET = ''
 REDIRECT_URI = 'http://127.0.0.1:8000/rest/v1/calendar/redirect/'
 
 TEMPLATES = [
